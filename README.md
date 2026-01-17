@@ -31,5 +31,5 @@ El proyecto simula el funcionamiento básico de una wallet digital utilizando al
 ## ⚙️ Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/alke-wallet.git
+   bash
+   git clone https://github.com/AArrueEstay/Alke_Wallet
